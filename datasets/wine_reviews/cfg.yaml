@@ -7,3 +7,6 @@ output_features:
     -
         name: points
         type: numerical
+training:
+    -
+        epochs: 1
