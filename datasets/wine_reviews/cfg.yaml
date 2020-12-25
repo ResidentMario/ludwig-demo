@@ -8,5 +8,4 @@ output_features:
         name: points
         type: numerical
 training:
-    -
-        epochs: 1
+    'epochs': 1
